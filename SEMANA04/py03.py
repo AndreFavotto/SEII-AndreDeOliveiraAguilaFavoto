@@ -16,7 +16,7 @@ print(3 % 2)
 print(3 * (2 + 1))
 
 """
-#some useful functions
+#Some useful functions
 """ print(abs(-3))
 print(round(3.75, 1))
 num1 = int('100') #casting
