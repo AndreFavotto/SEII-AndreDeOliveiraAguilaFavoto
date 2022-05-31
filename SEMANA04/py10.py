@@ -34,4 +34,4 @@ os.path.exists('tmp/text.txt')
 os.path.isfile('tmp/text.txt')
 os.path.isdir('tmp/text.txt')
 os.path.splitext('tmp/text.txt') #separates filename and extension
-print(dir(os.path)) """
+print(dir(os.path))"""
