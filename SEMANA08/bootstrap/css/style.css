@@ -1,0 +1,53 @@
+body{
+    background-color: #dec2b9;
+    display: flex;
+    flex-direction: column;
+}
+
+#logomarca {
+    object-fit: cover;
+    width:100%;
+    height: 70px;
+    padding: 5px 0 0 10px;
+}
+
+nav, footer{
+    background-color: #923315;
+}
+
+.nav-link{
+    color: #f0c092;
+}
+
+.nav-link:hover{
+    color:antiquewhite;
+}
+
+.row{
+    margin-bottom: 2rem;
+}
+
+h1{
+    color:#923315;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#atelie{
+    height: 100%;
+    width: 100%;
+} 
+#imgatelie{
+    max-height: 500px;
+}
+
+#fundotexto{
+    background-color: #ffffff;
+    padding:10px 0 20px 40px;
+    height: 100%;
+    text-align: right;
+}
+
+footer{
+    text-align: right;
+}
